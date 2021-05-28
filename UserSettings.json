@@ -1,0 +1,36 @@
+{
+  "audio": {
+    "compressorEnabled": false,
+    "stereoSeparation": 1.0
+  },
+  "playback": {
+    "autoStopWhenMuted": true,
+    "autoStopWhenWorkspaceIsLocked": true,
+    "autoResumeOnStart": false,
+    "preventComputerSleep": true
+  },
+  "userInterface": {
+    "alwaysOnTop": false,
+    "disableAddFavoriteNotification": false,
+    "hideWhenMinimized": false,
+    "hideWhenClosed": false,
+    "reverseLogList": false,
+    "showAlbumArt": true,
+    "showFavoritesOnly": false,
+    "showLogOnConnect": false,
+    "systemNotificationOnTrackChange": false,
+    "visualizationFrequency": 60
+  },
+  "privacy": {
+    "allowAnalytics": false,
+    "allowAutomaticErrorReports": false
+  },
+  "favorites": [
+    "user:37c13512-c784-430a-8761-c15c1d84b032",
+    "preset:UoqUjS0C6Euec2Eun8EjiQ",
+    "preset:t7IIpFQfZkOVw2VCqEQ2wi",
+    "preset:PZFlsvJTuUWOngyV5gFGMw",
+    "user:9cd4123a-4e36-4b4f-bedc-548286c8c1fc",
+    "preset:OMVi3ial0eNVoVQCmT5Dw9"
+  ]
+}

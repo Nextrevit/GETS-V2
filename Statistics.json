@@ -1,0 +1,19 @@
+{
+  "applicationStartups": 40,
+  "firstStarted": "2019-11-26T23:57:30.8534922Z",
+  "lastStartups": [
+    "2021-05-09T20:34:37.5050418Z",
+    "2020-07-14T15:28:51.9307289Z",
+    "2020-07-10T23:13:36.9050039Z",
+    "2020-07-10T12:48:47.9992116Z",
+    "2020-06-02T01:56:49.596414Z"
+  ],
+  "runningTime": 107105.2643542,
+  "playTime": 43545.007708,
+  "playTimeSinceStart": 342.007708,
+  "downloadedBytes": 716875901,
+  "downloadedBytesSinceStart": 9660597,
+  "googleAnalytics": {
+    "clientId": "5430126610"
+  }
+}

@@ -1,0 +1,24 @@
+Thank you for downloading Google Earth Trucking Simulator V1.
+
+How to install:
+
+(1). Copy the folder named "res". Make sure to copy the WHOLE folder or else you will be missing files.
+
+(2). Navigate to where Google Earth is saved to your PC.
+In my case, C:\Program Files\Google\Google Earth Pro\client is where you will need to go.
+
+If you installed Google Earth in a different directory, just search for a folder named "Google" > "Google Earth Pro" > "client".
+
+(3). Once you have navigated to the "client" folder in Google Earth ("C:\Program Files\Google\Google Earth Pro\client", it may be different on which directory you installed GE in)
+
+(4). Delete the "res" folder (OR drag it to a different directory AWAY from Google Earth files).
+
+(5). Paste the "res" folder that you copied into the "client" directory.
+
+Now, go back to where you downloaded GETS V1. Open the "Google Earth Trucking Simulator .exe file.
+
+You may start the simulation by clicking (in GE) Tools > Flight Simulator > SR22.
+
+If there is a error repeat all the above steps.
+
+For update notes or assistance, hop over to https://discord.gg/eUrSK4G

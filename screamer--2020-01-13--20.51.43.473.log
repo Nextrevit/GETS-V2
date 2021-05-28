@@ -1,0 +1,17 @@
+Screamer Radio (version 2019-11-22 17:42:04 UTC)
+------- -- -
+Log timestamp 2020-01-13 20:51:43
+---- -- -
+
+------ -- -
+
+An error occurred while handling a message of type ApplicationShuttingDown
+Handled: True
+Timestamp: 2020-01-13 20:51:43
+-
+System.Threading.Tasks.TaskCanceledException: A task was canceled.
+   at void Screamer.Core.Services.Dispatcher.HandlerResolver+.MoveNext()
+   at void Screamer.Core.Services.Dispatcher.Dispatcher+ .MoveNext()
+
+------ -- -
+

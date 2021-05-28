@@ -1,0 +1,5 @@
+@echo off
+
+start GEVEMSCANIA.kmz
+
+exit

@@ -1,0 +1,40 @@
+{
+  "applicationState": {
+    "stationId": "user:37c13512-c784-430a-8761-c15c1d84b032",
+    "stream": {
+      "title": "Simulator Radio",
+      "websiteUrl": "https://simulatorradio.com/"
+    },
+    "track": {
+      "artist": "The Boomtown Rats",
+      "title": "I Don't Like Mondays"
+    },
+    "sources": [
+      "https://simulatorradio.stream/stream?1558071009628"
+    ],
+    "volume": 0.99
+  },
+  "activeTab": "Stations",
+  "openTabs": [
+    "Stations",
+    "Log",
+    "Settings",
+    "About"
+  ],
+  "singleInstance": true,
+  "upgrades": {
+    "lastUpgradeCheck": "2021-05-09T20:34:46.5165444Z"
+  },
+  "window": {
+    "maximized": false,
+    "locationLeft": 390.0,
+    "locationTop": 163.0,
+    "width": 800.0,
+    "height": 550.0
+  },
+  "network": {
+    "bufferSize": 5000,
+    "proxy": "",
+    "proxyEnabled": true
+  }
+}

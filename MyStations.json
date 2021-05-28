@@ -1,0 +1,24 @@
+[
+  {
+    "id": "user:37c13512-c784-430a-8761-c15c1d84b032",
+    "title": "SimulatorRadio",
+    "websiteUrl": "https://simulatorradio.com/home",
+    "tags": [
+      "User"
+    ],
+    "sources": [
+      "https://simulatorradio.stream/stream?1558071009628"
+    ]
+  },
+  {
+    "id": "user:9cd4123a-4e36-4b4f-bedc-548286c8c1fc",
+    "title": "TruckersFM",
+    "websiteUrl": "https://truckers.fm/",
+    "tags": [
+      "User"
+    ],
+    "sources": [
+      "http://truckersfm.com:8005/stream"
+    ]
+  }
+]
